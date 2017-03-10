@@ -1,0 +1,3 @@
+# Module dtdmgroup16
+# RPC service class, partial path of RPC policy file
+com.api.client.GreetingService, 618E6DCA0499D650B517418742017AF9.gwt.rpc
